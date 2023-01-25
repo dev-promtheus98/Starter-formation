@@ -1,4 +1,4 @@
-@extends('layouts.default', ['title' => 'Ajouter un post'])
+@extends('layouts.dashboard', ['title' => 'Ajouter un post'])
 
 @section('content')
 <div class="container">

@@ -1,4 +1,6 @@
-@extends('layouts.default', ['title' => 'Liste des posts'])
+@extends('layouts.dashboard', ['title' => 'Liste des posts'])
+
+
 
 @section('content')
 <div class="container">
